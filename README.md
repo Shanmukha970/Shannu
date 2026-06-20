@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shanmukha919&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -199,4 +198,3 @@ I enjoy building scalable web applications using **Java, Spring Boot, React.js, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1E90FF&height=120&section=footer"/>
 
 </div>
-```
